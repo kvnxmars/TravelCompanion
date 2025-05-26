@@ -10,4 +10,6 @@ namespace TravelCompanionAPI.Models
         public DateTime EndDate { get; set; }
         public string? Description { get; set; }
     }
+
+    //this is jus to test the github
 }
